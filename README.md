@@ -28,6 +28,14 @@ circuit-diagram/ -> Circuit schematic
 images/ -> Project images
 report/ -> Project documentation
 
+## Project Images
+
+### Working Model
+![Working Model](images/Image.jpg)
+
+### Circuit Diagram
+![Circuit Diagram](images/Screenshot 2026-02-11 082704.jpg)
+
 ## Author
 Bindan S
 First Year Engineering Student
